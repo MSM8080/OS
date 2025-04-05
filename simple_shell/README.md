@@ -1,1 +1,1 @@
-this is a simple shell implemented by fork() & execve()
+this is a simple shell implemented by fork() & execvp()
